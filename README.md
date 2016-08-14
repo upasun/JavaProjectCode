@@ -1,10 +1,12 @@
 # JavaProjectCode
 Routing Project --
+
 MapGraph contains three main methods - and one main helper method
+
 bfs - breadth first search algorithm
 djikstra - djikstra's algorithm implementation
 aStarSearch - A* algorithm
-algoSearch - This is the backbone method behind the A* and Djikstra
+algoSearch2 - This is the backbone method behind the A* and Djikstra
 alorithms, since A* is simply Djikstra with additional weightings.
 
 The SearchTree class is the data structure I use to store intersections
