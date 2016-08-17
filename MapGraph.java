@@ -273,10 +273,10 @@ public class MapGraph {
 							if(x != null){
 								myQ2.add(gp);
 							}
-							if((gp.getX() == goal.getX()) && (gp.getY() == goal.getY()) && x != null){
+							/*if((gp.getX() == goal.getX()) && (gp.getY() == goal.getY()) && x != null){
 								System.out.println(inc);
 								return x.buildPathToRoot();
-							}
+							}*/
 						}
 					}
 				}
